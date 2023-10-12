@@ -1,0 +1,57 @@
+body{
+  background-color: rgb(255, 255, 255);
+  font-family: 'Open Sans', sans-serif;
+  padding: 70px;
+}
+h1 {
+  font-size: 50px;
+  padding: 10px;
+  margin: 5px;
+}
+
+h2{
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.inicio{
+  display: block;
+  text-align: justify;
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+
+.subtitulos{
+  text-align: left;
+  margin-left: 15px;
+  margin-top: 5px;
+}
+
+#texto{
+  font-size: 15px;
+  display: block;
+  margin: 10px;
+}
+
+div{
+  text-align: center;
+}
+
+#monza-tubarao-img{
+  text-align: center;
+  border-radius: 20px;
+  width: 550px;
+}
+
+#monza-sr-img{
+  text-align: center;
+  border-radius: 20px;
+  width: 550px;
+
+}
+
+small{
+  text-align: center;
+  display: block;
+}
